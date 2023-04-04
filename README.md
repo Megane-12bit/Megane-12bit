@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Megane-12bit
-- 👀 I’m interested in cybersecurity.
-- 🌱 I’m currently learning javascript.
+- 👀 I’m interested in cybersecurity and programation.
+- 🌱 I’m currently learning Python/Django.
+-  🕶 I have basic notions of JS, html and css.
 
 
 <!---
